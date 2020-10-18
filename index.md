@@ -4,3 +4,4 @@ This has been a fun project.  The goal was to learn how to create a free blog us
 
 Another [great reference](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) used during this project was for github pull request basics.  
 
+This has been a fun project.  The goal was to learn how to create a free blog using only Github.  I refernced several articles, but found [this one](https://guides.github.com/features/pages/) to be the most useful.
