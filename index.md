@@ -9,6 +9,7 @@ And, for markdown basics, check [this article](https://github.com/adam-p/markdow
 ### Lessons learned: 
 * Firming up pull requests before goofing on another person's project 
   </br>(sorry about my goof PR while learning, @[jekyll-now](https://github.com/barryclark/jekyll-now)!)
+* Learning to review and commit PRs
 * Maintaining a blog using github; this is awesome!
 * Reinforcing markdown basics 
 * Sharing another view point with the community!
