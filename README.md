@@ -1,1 +1,1 @@
-# blog.c0a3bd.github.io
+# YASB - Yet Another Security Blog
