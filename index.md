@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+# 20-1018 - Creating a blog using GitHub
 
-You can use the [editor on GitHub](https://github.com/c0a3bd/blog.c0a3bd.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This has been a fun project.  The goal was to learn how to create a free blog using only Github.  I'd referenced several articles, but found [this one](https://guides.github.com/features/pages/) to be the most useful.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Another [great reference](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) used during this project was for github pull request basics.  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/c0a3bd/blog.c0a3bd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
