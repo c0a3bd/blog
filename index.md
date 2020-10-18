@@ -7,8 +7,8 @@ Another [great reference](https://www.digitalocean.com/community/tutorials/how-t
 And, for markdown basics, check [this article](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) out!
 
 ### Lessons learned: 
-* Firming up pull requests before goofing on another person's project 
-  </br>(sorry about my goof PR while learning, @[jekyll-now](https://github.com/barryclark/jekyll-now)!)
+* Firming up pull requests before goofing on another person's project  
+  (sorry about my goof PR while learning, @[jekyll-now](https://github.com/barryclark/jekyll-now)!)  
 * Learning to review and commit PRs
 * Maintaining a blog using github; this is awesome!
 * Reinforcing markdown basics 
